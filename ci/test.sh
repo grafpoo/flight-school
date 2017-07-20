@@ -1,4 +1,4 @@
-#!/bin/basherino
+#!/bin/bash
 
 set -e -x
 
